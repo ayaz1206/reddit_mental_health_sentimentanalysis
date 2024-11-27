@@ -1,0 +1,5 @@
+datasets
+nltk 
+pyspellchecker
+
+#Decide for the common version so we do not have any compilation errors/problems
